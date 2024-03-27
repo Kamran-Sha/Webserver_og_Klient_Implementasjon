@@ -15,13 +15,13 @@ Før du dykker inn i å kjøre koden, sørg for at du har Python 3 installert p�
 1. Åpne en terminal.
 2. Naviger til mappen som inneholder `server.py`.
 3. Kjør kommandoen: `python3 server.py`.
-4. Åpne en nettleser og besøk `http://localhost:8000/filnavn.html`.
+4. Åpne en nettleser og besøk `http://localhost:8000/index.html`.
 
 ### Webklient (Oppgave 2)
 
 1. Åpne en annen terminal.
 2. Naviger til mappen med `client.py`.
-3. Kjør: `python3 client.py -i 127.0.0.1 -p 8000 -f filnavn.html`.
+3. Kjør: `python3 client.py -i 127.0.0.1 -p 8000 -f index.html`.
 
 ### Flertrådet Webserver (Oppgave 3)
 
