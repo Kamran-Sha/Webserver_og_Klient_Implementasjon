@@ -2,7 +2,7 @@
 
 ## Introduksjon
 
-Dette prosjektet er en del av oppgavesettet for DATA2410 Nettverk og skytjenester ved [Din Universitet/Institusjon]. Det inkluderer implementering av en enkel webserver, en webklient, og en flertrådet webserver, alle utviklet i Python.
+Dette prosjektet er en del av oppgavesettet for DATA2410 Nettverk og skytjenester ved Oslomet. Det inkluderer implementering av en enkel webserver, en webklient, og en flertrådet webserver, alle utviklet i Python.
 
 ## Oppstart
 
@@ -40,4 +40,4 @@ Før du dykker inn i å kjøre koden, sørg for at du har Python 3 installert p�
 
 ---
 
-Håper du finner dette prosjektet både informativt og spennende. Lykke til med utforskingen!
+Håper du finner dette prosjektet både informativt og spennende.
