@@ -6,7 +6,7 @@ Dette prosjektet er en del av oppgavesettet for DATA2410 Nettverk og skytjeneste
 
 ## Oppstart
 
-Før du dykker inn i å kjøre koden, sørg for at du har Python 3 installert på systemet ditt. Det er alt du trenger for å komme i gang!
+Før du dykker inn i å kjøre koden, sørg for at du har Python 3. Det er alt du trenger for å komme i gang!
 
 ## Hvordan kjøre prosjektet
 
